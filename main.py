@@ -7,8 +7,8 @@ RPC.connect()
 
 
 RPC.update(
-    details="🤖 Coding right now",  
-    state="In MinecraftCheat",    
+    details="Do something",  
+    state="In Example",    
     large_image="alogo",          
     buttons=[{"label": "Donate", "url": "https://www.donationalerts.com/r/kryun"}]
 )
